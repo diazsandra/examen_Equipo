@@ -1,0 +1,97 @@
+
+/** Elaborado por San **/
+
+* {
+	color: #888;
+	font-family: sans-serif;
+}
+
+#iconos1 {
+	padding: 5%;
+	text-align: center;
+}
+
+.iconos {
+	width: 50px;
+	height: 50px;
+}
+
+.mgt20 {
+	margin-top: 20px;
+}
+
+#features {
+	background-color: rgb(244, 244, 244);
+}
+
+#features img {
+	width: 100%;
+}
+#iconos2 {
+	padding: 5%;
+}
+
+#iconos2 img {
+	width: 30px;
+	height: 30px;
+	text-align: right;
+	margin-top: 20px;
+}
+
+#portfolio {
+	background-color: rgb(244, 244, 244);
+	text-align: center;
+	padding: 5%;
+}
+
+.pb-3 {
+	padding-bottom: 3%;
+}
+
+.text-black {
+	color: black;
+}
+
+.button {
+	background: white;
+	color: black;
+	display:inline-block;
+	font-size:1em;
+	margin:30px 3px;
+	padding:5px;
+	text-align:center;
+	width:110px;
+	text-decoration:none;
+	box-shadow:0px 3px 0px #32C7C7;
+}
+ 
+.button span {
+	margin-right:10px;
+}
+
+.button.blue {
+	background:#32C7C7;
+	box-shadow:0px 3px 0px #266792;
+}
+
+.button.black {
+	color: white;
+	background:#263238;
+	box-shadow:0px 3px 0px #37474F;
+}
+
+.photo {
+	margin-top: 30px;
+	background-color: white;
+	padding: 5%;
+	text-align: center;
+}
+
+#portfolio h3 {
+	color: #263238;
+	padding: 2%;
+}
+
+.text-none {
+	text-decoration: none;
+}
