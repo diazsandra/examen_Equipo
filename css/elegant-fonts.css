@@ -793,6 +793,7 @@ you can use the generic selector below, but it's slower:
 }
 .social_linkedin:before {
 	content: "\e09d";
+	width: 50%;
 }
 .social_rss:before {
 	content: "\e09e";
